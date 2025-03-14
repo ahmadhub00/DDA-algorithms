@@ -1,1 +1,1 @@
-# DDA-algorithms
+# Class Projects
